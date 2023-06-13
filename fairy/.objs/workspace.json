@@ -1,0 +1,27 @@
+{
+  "libview.firstColumnWidth": 289,
+  "libview.iconScale": 0,
+  "backgroundColor": 6710886,
+  "auxline1": true,
+  "canvasColor": 10066329,
+  "auxline2": true,
+  "doc.activeDoc": "ui://g0xgwx4ugzlz2",
+  "libview.twoColumn": false,
+  "libview.expandedNodes": [
+    "g0xgwx4u",
+    "/",
+    "g0xgwx4u",
+    "/comps/",
+    "g0xgwx4u",
+    "/res/"
+  ],
+  "doc.openedDocs": [
+    "ui://g0xgwx4urazt3",
+    "ui://g0xgwx4uprfj0",
+    "ui://g0xgwx4ugzlz2"
+  ],
+  "snapToGrid": true,
+  "gridColor": 80,
+  "libview.currentGroup": "",
+  "gridSize": 30
+}

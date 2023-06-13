@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" extention="Label">
+  <displayList>
+    <loader id="n0_vmeb" name="icon" xy="0,0" pivot="0.5,0.5" size="100,100" url="ui://g0xgwx4uvmeb5" align="center" vAlign="middle" fill="scale"/>
+    <graph id="n1_vmeb" name="border" xy="-5,-5" pivot="0.5,0.5" size="110,110" type="rect" lineSize="5" lineColor="#bfffffff" fillColor="#00ffffff" corner="2"/>
+  </displayList>
+  <transition name="show" autoPlay="true">
+    <item time="0" type="Alpha" target="n1_vmeb" value="0"/>
+    <item time="0" type="Scale" target="n0_vmeb" tween="true" startValue="1.5,1.5" endValue="0.95,0.95" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n0_vmeb" tween="true" startValue="-,-75" endValue="-,0" duration="3" ease="Linear"/>
+    <item time="3" type="Scale" target="n0_vmeb" tween="true" startValue="0.95,0.95" endValue="1,1" duration="2" ease="Linear"/>
+    <item time="6" type="Alpha" target="n1_vmeb" value="1"/>
+    <item time="6" type="Scale" target="n1_vmeb" tween="true" startValue="1.3,1.3" endValue="1,1" duration="2" ease="Linear"/>
+  </transition>
+</component>

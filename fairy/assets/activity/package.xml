@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="g0xgwx4u">
+  <resources>
+    <component id="prfj0" name="main.xml" path="/" exported="true"/>
+    <component id="gzlz2" name="label_item.xml" path="/comps/" exported="true"/>
+    <component id="razt3" name="popup.xml" path="/comps/" exported="true"/>
+    <image id="aaj24" name="微信截图_20230519170813.png" path="/comps/"/>
+    <image id="vmeb5" name="item.png" path="/res/"/>
+  </resources>
+  <publish name="act" path="../assets/resources/fui" packageCount="2"/>
+</packageDescription>

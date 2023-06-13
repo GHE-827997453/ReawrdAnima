@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <list id="n4_gzlz" name="list" xy="133,95" size="610,425" layout="flow_hz" overflow="scroll" scrollBarFlags="2" lineGap="20" colGap="24" lineItemCount="4" defaultItem="ui://g0xgwx4ugzlz2" align="center" vAlign="middle">
+      <relation target="" sidePair="middle-middle,left-left"/>
+      <item title="0"/>
+      <item title="1"/>
+      <item title="2"/>
+      <item title="3"/>
+      <item title="4"/>
+      <item title="5"/>
+      <item title="6"/>
+      <item/>
+    </list>
+  </displayList>
+</component>
